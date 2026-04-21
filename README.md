@@ -4,7 +4,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 
 ## 📊 Problem Tracker
 
-| Date | # | Problem Name | Difficulty | Topic | Solution |
+| Date | #Q | Problem Name | Difficulty | Topic | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 21-04-2026 | 1281 | [Subtract the Product and Sum of Digits](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy 🟢 | Math | [View Code](./1281-subtract-product-sum.cpp) |
 

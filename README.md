@@ -8,6 +8,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 21-04-2026 | 1281 | [Subtract the Product and Sum of Digits](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy 🟢 | Math | [View Code](./1281-subtract-product-sum.cpp) |
 | 22-04-2026 | 191 | [Number or 1 bits](https://leetcode.com/problems/number-of-1-bits) | Easy 🟢 | Bit Manipulation | [View Code](./191-number-of-1-bits.cpp) |
+| 22-04-2026 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium 🟡 | Math | [View Code](./7-reverse-integer.cpp) |
 
 ---
 

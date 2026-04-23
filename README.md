@@ -10,6 +10,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 22-04-2026 | 191 | [Number or 1 bits](https://leetcode.com/problems/number-of-1-bits) | Easy 🟢 | Bit Manipulation | [View Code](./191-number-of-1-bits.cpp) |
 | 22-04-2026 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium 🟡 | Math | [View Code](./7-reverse-integer.cpp) |
 | 23-04-2026 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy 🟢 | Bit Manipulation | [View Code](./1009-Complement-of-Base-10-Integer.cpp) |
+| 23-04-2026 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy 🟢 | Math | [View Code](231-power-of-two.cpp) |
 
 ---
 

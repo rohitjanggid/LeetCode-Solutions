@@ -11,7 +11,8 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 22-04-2026 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium 🟡 | Math | [View Code](./7-reverse-integer.cpp) |
 | 23-04-2026 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy 🟢 | Bit Manipulation | [View Code](./1009-Complement-of-Base-10-Integer.cpp) |
 | 23-04-2026 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy 🟢 | Math | [View Code](./231-power-of-two.cpp) |
-| 24-04-2026 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy 🟢 | Math | [View Code](./326-power-of-three.cpp)
+| 24-04-2026 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy 🟢 | Math | [View Code](./326-power-of-three.cpp) | 
+| 25-04-2026 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy 🟢 | Math | [View Code](./342-power-of-four.cpp) |
 
 ---
 

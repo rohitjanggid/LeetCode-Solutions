@@ -15,6 +15,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 25-04-2026 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy 🟢 | Math | [View Code](./342-power-of-four.cpp) |
 | 26-04-2026 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy 🟢 | Array | [View Code](./1207-Unique-Number-of-Occurrences.cpp) | 
 | 27-04-2026 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | Medium 🟡 | Array | [View Code](./442-Find-All-Duplicates-in-an-Array.cpp) |
+| 30-04-2026 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy 🟢 | Math | [View Code](./9-Palindrome-Number.cpp)
 
 ---
 

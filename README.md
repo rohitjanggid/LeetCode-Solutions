@@ -99,6 +99,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 22-07-2026 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy 🟢 | Array | [View Code](./1732-Find-the-Highest-Altitude.cpp) |
 | 23-07-2026 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy 🟢 | String | [View Code](./925-Long-Pressed-Name.cpp) |
 | 24-07-2026 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy 🟢 | Two Pointers | [View Code](./1768-Merge-Strings-Alternately.cpp) | 
+| 25-07-2026 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | Easy 🟢 | Math | [View Code](./3536-Maximum-Product-of-Two-Digits.cpp) |
 
 ---
 

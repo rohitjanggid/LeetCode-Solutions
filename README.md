@@ -101,6 +101,7 @@ Welcome to my LeetCode journey! I am using this repository to track my progress 
 | 24-07-2026 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | Easy 🟢 | Two Pointers | [View Code](./1768-Merge-Strings-Alternately.cpp) | 
 | 25-07-2026 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | Easy 🟢 | Math | [View Code](./3536-Maximum-Product-of-Two-Digits.cpp) |
 | 26-07-2026 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy 🟢 | Array | [View Code](./628-Maximum-Product-of-Three-Numbers.cpp) |
+| 27-07-2026 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy 🟢 | Array | [View Code](./1464-Maximum-Product-of-Two-Elements-in-an-Array.cpp) |
 
 ---
 
